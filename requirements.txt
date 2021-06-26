@@ -1,0 +1,12 @@
+-i https://mirrors.aliyun.com/pypi/simple/
+fire==0.4.0
+requests
+tldextract
+google
+shodan
+OTXv2
+colorama
+mmh3
+ExifRead
+loguru
+pyOpenSSL
