@@ -1,5 +1,6 @@
 # Cyberspace Survey
 
+原文：[Cyberspace_Survey](https://www.notion.so/Cyberspace-Survey-fdeb7cc3288d4d1fb4bc6caae1b4b06f)
 
 **结合网络空间测绘和 OSINT 的技巧，帮助蓝队溯源反制。**
 
@@ -94,7 +95,7 @@ python3 Cyberspace_Survey.py tools --plateform str2hex --target 1.1.1.1 --output
 
     python3 Cyberspace_Survey.py personal --target ** --plateform github_email
 
-### 3**.信息泄露(leak)**
+### 3.信息泄露(leak)
 
 - 通过 google 搜索引擎搜索(db/phpinfo/phpadmin/sqlerror/config/bak/rsa/password.txt、目录遍历漏洞、.git/.svn/.ds_store、泄露的用户凭证等)
 
@@ -110,7 +111,7 @@ python3 Cyberspace_Survey.py tools --plateform str2hex --target 1.1.1.1 --output
 
 - ~~broken link(todo)~~
 
-### 4**.威胁情报(ti)**
+### 4.威胁情报(ti)
 
 - inquest
 
@@ -125,7 +126,7 @@ python3 Cyberspace_Survey.py tools --plateform str2hex --target 1.1.1.1 --output
     python3 Cyberspace_Survey.py ti --plateform otx --target 'f590e1b6a80cf3e8360388382eabb04b3e247b78','211.94.162.245','srtuoiiuhg.work'
 
 
-### 5**.工具栏**
+### 5.工具栏
 
 - ico 转换 hash,方便使用 fofa shodan等进行搜索
 
@@ -162,7 +163,6 @@ python3 Cyberspace_Survey.py tools --plateform str2hex --target 1.1.1.1 --output
 
 使用本工具则默认遵守网络安全法
 
-原文：[Cyberspace_Survey](https://www.notion.so/Cyberspace-Survey-fdeb7cc3288d4d1fb4bc6caae1b4b06f)
 
 **Thanks:**
 
